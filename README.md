@@ -1,6 +1,5 @@
-# flutterapps
-
-A new Flutter application.
+# Calculator UI
+![](screenshot.png)
 
 ## Getting Started
 
